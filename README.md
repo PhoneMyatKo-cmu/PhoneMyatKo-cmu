@@ -1,6 +1,6 @@
 # Hi, I'm Phone Myat Ko Ko  
 
- 3rd-year Software Engineering student @ CAMT, Chiang Mai University.  
+ Final year Software Engineering student @ CAMT, Chiang Mai University.  
  Passionate about **Back-end engineering, operating systems, and networking**.  
  Currently diving deep into:  
  - Agentic AI 
@@ -11,9 +11,9 @@
 
 ##  Projects
 -  **JavaFX Asteroids Game** – classic arcade game  
--  **Restaurant Management System** – Database Management Focused System
--  **Bookstore Website** – Online Bookstore For Customers + Backstore for Staff  
--  **Image Cropping App** – batch crop, preview, concurrent processing in JavaFX  
+-  **Recipe Recommendation System** – Information Retrieval Focused System
+-  **Bookstore Website** – Online Bookstore For Customers + Backstore for Staff with complete CI/CD for deployment to EC2
+-  **Immersio** – A platform which turns every Japanese YouTube video into interactive language learning materials  
 
 
 ---
